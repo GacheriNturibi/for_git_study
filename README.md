@@ -9,4 +9,8 @@ This repository contains the assignment notebooks for the **DPro Machine Learnin
 ---
 
 If you are visiting to assess the assignments:  
-Please enjoy exploring how each problem was approached and solved.  
+Please enjoy exploring how each problem was approached and solved :) 
+
+---
+*All code in this repository may be used and shared for personal purposes, provided proper attribution is given in accordance with the MIT License.*
+
